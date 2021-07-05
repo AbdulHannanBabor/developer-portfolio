@@ -55,6 +55,7 @@ body{
         margin-left: 60px;
         margin-right: 10px;
         border-radius: 10px;
+        
     }
     .experience-area{
 
@@ -64,5 +65,19 @@ body{
         
         
     }
+    #web-dev-exp{
+        border-left: 7px solid;
+        border-image: linear-gradient(#a7791f, #4d9f0c) 30;
+        border-image-slice: 5%;
 
+    }
+    #web-dev-exp2{
+        border-left: 7px solid;
+        border-image: linear-gradient(#f6b73c, #435f2b) 30;
+        border-image-slice: 5%;
+
+    }
+    footer p{
+        text-align: center ;
+    }
     
