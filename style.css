@@ -11,7 +11,7 @@ body{
         color:rgb(235, 161, 23);
 
     }
-    section{
+    .flexible-container{
         display: flex;
         margin-bottom:70px;
     }
@@ -19,7 +19,7 @@ body{
         width:50%;
         padding: 5%;
         text-align: justify;
-
+        
     }
     .half-width img{
 
@@ -47,3 +47,22 @@ body{
         padding: 5%;
         text-align: justify;
     }
+    .Experience-item{
+        box-shadow:10px 10px 60px rgb(67, 90, 22);
+        width: 40%;
+        padding: 20px;
+        text-align: justify;
+        margin-left: 60px;
+        margin-right: 10px;
+        border-radius: 10px;
+    }
+    .experience-area{
+
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+        background-position: left;
+        
+        
+    }
+
+    
